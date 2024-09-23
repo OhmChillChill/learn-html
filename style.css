@@ -1,0 +1,20 @@
+.logo {
+/* border: solid green; */
+}
+
+.menu {
+    display: flex;
+    /* border:solid salmon; */
+    justify-content: space-around;
+    column-gap: 20px;
+}
+
+.login-sec {
+    /* border: solid saddlebrown; */
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    /* border:  solid rgb(255, 0, 8) 3px; */
+}
